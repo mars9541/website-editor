@@ -8,7 +8,7 @@
   "main": "libs/builder/builder.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/givanz/VvvebJs.git"
+    "url": "https://github.com/marsofjkic/VvvebJs.git"
   },
   "dependencies": {
     "jquery": "^3.0"
