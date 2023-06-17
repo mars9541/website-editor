@@ -9,8 +9,7 @@
 </p>
 <p align="center">
   <a href="https://www.vvveb.com">Website</a> |
-  <a href="https://github.com/givanz/VvvebJs/wiki">Documentation</a> |
-  <a href="https://github.com/givanz/VvvebJs/discussions">Forum</a> |
+  <a href="https://github.com/marsofjkic/VvvebJs/wiki">Documentation</a> |
   <a href="https://twitter.com/vvvebcms">Twitter</a> 
 </p>
 
@@ -19,7 +18,7 @@
 
 For a full featured open source CMS using VvvebJs check [Vvveb CMS](https://www.vvveb.com)
 
-Using [Vvveb landing page template](https://github.com/givanz/Vvveb-landing-bootstrap5-template) for demo page and Bootstrap 5 sections and blocks.
+Using [Vvveb landing page template](https://github.com/marsofjkic/Vvveb-landing-bootstrap5-template) for demo page and Bootstrap 5 sections and blocks.
 
 <img src="https://www.vvveb.com/img/dark-theme.png">
 <img src="https://www.vvveb.com/img/light-theme.png">
@@ -140,11 +139,7 @@ For css changes edit `scss/editor.scss` and `scss/_builder.scss`
 
 ## Documentation
 
-For documentation check the [wiki](https://github.com/givanz/VvvebJs/wiki)
-
-## Support
-
-If you like the project you can support it with a [PayPal donation](https://paypal.me/zgivan) or become a backer/sponsor via [Open Collective](https://opencollective.com/vvvebjs)
+For documentation check the [wiki](https://github.com/marsofjkic/VvvebJs/wiki)
 
 
 <a href="https://opencollective.com/vvvebjs/sponsors/0/website"><img src="https://opencollective.com/vvvebjs/sponsors/0/avatar"></a>
